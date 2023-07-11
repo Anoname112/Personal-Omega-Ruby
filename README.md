@@ -23,6 +23,9 @@ File size: 3.11 MB
 - Open Citra, in the rom list right click Pokemon Omega Ruby and select 'Open Mods Location'
 - Copy the romfs folder to the opened directory
 
+### More information
+https://github.com/Anoname112/Personal-Omega-Ruby
+
 ### Future plans
 - Evolution methods
 - Trainer changes
