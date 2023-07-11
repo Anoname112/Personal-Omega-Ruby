@@ -47,9 +47,9 @@ https://github.com/Anoname112/Personal-Omega-Ruby
 [/LIST]
 
 [SIZE="4"][B]Screenshots[/B][/SIZE]
-[SPOILER][CIMG="width: 50%; height: 50%;"]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/FrenzyPlant.png[/CIMG]
-[CIMG="width: 50%; height: 50%;"]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/SpeedBuff.png[/CIMG]
-[CIMG="width: 50%; height: 50%;"]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/WildEncounter.png[/CIMG][/SPOILER]
+[SPOILER][CIMG="width: 600px; height: 300px;"]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/FrenzyPlant.png[/CIMG]
+[CIMG="width: 600px; height: 300px;"]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/SpeedBuff.png[/CIMG]
+[CIMG="width: 600px; height: 300px;"]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/WildEncounter.png[/CIMG][/SPOILER]
 
 [SIZE="4"][B]Download [URL="https://anoname112.github.io/Personal-Omega-Ruby/PersonalOmegaRuby.zip"][here][/URL][/B][/SIZE]
 [SIZE="2"]File size: 3.11 MB[/SIZE]
