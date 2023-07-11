@@ -11,9 +11,9 @@ Mega Charizard Y: -10 Attack, +10 Speed,
 Mega Blastoise: -10 Attack, +10 Speed
 
 Screenshots:
-Mega speed increase,
-Hydro cannon buff,
-Encounter
+<img src="https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/FrenzyPlant.png">
+<img src="https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/SpeedBuff.png">
+<img src="https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/WildEncounter.png">
 
 Download: <a href="https://anoname112.github.io/Personal-Omega-Ruby/PersonalOmegaRuby.zip">[here]</a>
 File size: 3.11 MB
