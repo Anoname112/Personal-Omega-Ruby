@@ -10,7 +10,7 @@ body {
 }
 
 .location {
-  margin: 5px;
+  margin: 5px 0;
   padding: 5px;
   border: 1px solid #AAAAAA;
   border-radius: 5px;
@@ -22,11 +22,18 @@ body {
   font-size: 14px;
 }
 
-.pokemon {
-  float: left;
-  margin: 2px;
-  padding: 2px;
+.location td {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+}
+
+.sprite {
   border-radius: 5px;
   background-color: #EEEEEE;
+}
+
+.name {
+  padding-bottom: 4px;
   text-align: center;
 }
