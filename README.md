@@ -15,7 +15,7 @@ Mega speed increase
 Hydro cannon buff
 Encounter
 
-Download: https://anoname112.github.io/Personal-Omega-Ruby/PersonalOmegaRuby.zip
+Download: <a href="https://anoname112.github.io/Personal-Omega-Ruby/PersonalOmegaRuby.zip">[here]</a>
 File size: 3.11 MB
 
 How to install:
