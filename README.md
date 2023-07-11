@@ -8,7 +8,7 @@ Omega Ruby personalized to my liking.
 Mega Venusaur: -10 Attack, +10 Speed.
 Mega Charizard X: -10 SpAttack, +10 Speed.
 Mega Charizard Y: -10 Attack, +10 Speed.
-Mega Blastoise: -10 Attack, +10 Spee.
+Mega Blastoise: -10 Attack, +10 Speed.
 
 ### Screenshots
 <img src="https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/FrenzyPlant.png">
