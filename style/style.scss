@@ -27,12 +27,12 @@ body {
 .location td {
 	display: flex;
 	flex-wrap: wrap;
-	gap: 4px;
+	gap: 5px;
 }
 
 .sprite {
 	border-radius: $borderRadius;
-	background-color: #EEEEEE;
+	background-color: #F8F8F8;
 }
 
 .name {
