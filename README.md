@@ -2,7 +2,7 @@
 Omega Ruby personalized to my liking.
 
 Features:
-- [url=https://anoname112.github.io/Personal-Omega-Ruby/]Wild encounters[/url] modified to make many Pokemon from gen 1 to 6 available, but Hoenn natives are still the majority.
+- <a="https://anoname112.github.io/Personal-Omega-Ruby/">Wild encounters</a> modified to make many Pokemon from gen 1 to 6 available, but Hoenn natives are still the majority.
 - Starter ultimate moves are modified because they are the 'ultimate' moves, not the inferior moves. 100 Accuracy, no recharge, and added effect.
 - Base stats of mega Kanto starters are modified.
 Mega Venusaur: -10 Attack, +10 Speed
