@@ -26,7 +26,7 @@ window.onload = function () {
 		// Pokemon names
 		for (var j = 1; j < encarray[i].length; j++) {
 			var modified = encarray[i][j].toLowerCase().replace("'", "").replace("-", "").replace(" ", "");
-			string += `<div class="pokemon"><img class="crop" src="sprites/` + modified + `.png"><br />` + encarray[i][j] + `</div>`;
+			string += `<div class="pokemon"><img src="sprites/` + modified + `.png"><br />` + encarray[i][j] + `</div>`;
 		}
 		// Close table
 		string += `</td></tr></table>`;
