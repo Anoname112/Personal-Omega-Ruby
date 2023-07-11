@@ -6,7 +6,8 @@ window.onload = function () {
 	// Split based on locations
 	encarray = encdata.split('---');
 	// Remove empty first element
-	encarray.shift();
+	if (encarray[0].length == 0) encarray.shift();
+	
 	for (var i = 0; i < encarray.length; i++) {
 		// Split by line breaks so every child element contain loaction name and Pokemon names
 		// then trim the elements
@@ -31,5 +32,5 @@ window.onload = function () {
 		string += `</td></tr></table>`;
 	}
 	
-	document.getElementById('container').innerHTML += string;
+	document.getElementById('container').innerHTML = string;
 }
