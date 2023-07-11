@@ -1,7 +1,8 @@
-var encdata = `---Littleroot Town
-xxx
+var encdata = `Littleroot Town
 
----Route 101
+---
+
+Route 101
 Wurmple
 Caterpie
 Weedle
@@ -15,10 +16,13 @@ Patrat
 Purrloin
 Lillipup
 
----Oldale Town
-xxx
+---
 
----Route 103
+Oldale Town
+
+---
+
+Route 103
 Zigzagoon
 Zigzagoon
 Poochyena
@@ -48,7 +52,9 @@ Wingull
 Pelipper
 Pelipper
 
----Route 102
+---
+
+Route 102
 Zigzagoon
 Zigzagoon
 Seedot
@@ -78,7 +84,9 @@ Azurill
 Azumarill
 Azumarill
 
----Petalburg City
+---
+
+Petalburg City
 Magikarp
 Piplup
 Goldeen
@@ -95,7 +103,9 @@ Buizel
 Chinchou
 Azumarill
 
----Route 104-South
+---
+
+Route 104-South
 Mime Jr
 Pidgey
 Zigzagoon
@@ -125,7 +135,9 @@ Wingull
 Psyduck
 Psyduck
 
----Route 104-North
+---
+
+Route 104-North
 Munna
 Happiny
 Zigzagoon
@@ -155,7 +167,9 @@ Wingull
 Slowpoke
 Slowpoke
 
----Petalburg Woods
+---
+
+Petalburg Woods
 Spinarak
 Budew
 Bellsprout
@@ -169,10 +183,13 @@ Taillow
 Slakoth
 Snivy
 
----Rustboro City
-xxx
+---
 
----Route 116
+Rustboro City
+
+---
+
+Route 116
 Zigzagoon
 Whismur
 Sandshrew
@@ -186,7 +203,9 @@ Joltik
 Togepi
 Turtwig
 
----Rusturf Tunnel
+---
+
+Rusturf Tunnel
 Igglybuff
 Cleffa
 Zubat
@@ -206,7 +225,9 @@ Geodude
 Geodude
 Geodude
 
----Dewford Town
+---
+
+Dewford Town
 Magikarp
 Squirtle
 Feebas
@@ -223,7 +244,9 @@ Buizel
 Shellos
 Alomomola
 
----Route 106
+---
+
+Route 106
 Magikarp
 Squirtle
 Feebas
@@ -240,7 +263,9 @@ Frillish
 Mantyke
 Pelipper
 
----Granite Cave
+---
+
+Granite Cave
 Zubat
 Scatterbug
 Pumpkaboo
@@ -286,7 +311,9 @@ Nosepass
 Geodude
 Nosepass
 
----Route 109
+---
+
+Route 109
 Magikarp
 Magikarp
 Feebas
@@ -303,7 +330,9 @@ Shellos
 Chinchou
 Pelipper
 
----Slateport City
+---
+
+Slateport City
 Magikarp
 Magikarp
 Feebas
@@ -320,7 +349,9 @@ Clauncher
 Buizel
 Gyarados
 
----Route 110
+---
+
+Route 110
 Electrike
 Electrike
 Plusle
@@ -350,10 +381,13 @@ Frillish
 Jellicent
 Jellicent
 
----Mauville City
-xxx
+---
 
----Route 118
+Mauville City
+
+---
+
+Route 118
 Paras
 Electrike
 Ditto
@@ -378,7 +412,9 @@ Wailmer
 Binacle
 Binacle
 
----Route 117
+---
+
+Route 117
 Deerling
 Yanma
 Tangela
@@ -408,10 +444,13 @@ Azurill
 Azumarill
 Azumarill
 
----Verdanturf Town
-xxx
+---
 
----Route 111
+Verdanturf Town
+
+---
+
+Route 111
 Cubone
 Baltoy
 Cacnea
@@ -447,7 +486,9 @@ Panpour
 Masquerain
 Masquerain
 
----Route 112
+---
+
+Route 112
 Numel
 Numel
 Machop
@@ -474,7 +515,9 @@ Teddiursa
 Machop
 Machop
 
----Fiery Path
+---
+
+Fiery Path
 Numel
 Numel
 Machop
@@ -488,7 +531,9 @@ Ponyta
 Magby
 Magby
 
----Route 113
+---
+
+Route 113
 Spinda
 Spinda
 Sigilyph
@@ -502,10 +547,13 @@ Skarmory
 Riolu
 Riolu
 
----Fallarbor Town
-xxx
+---
 
----Route 114
+Fallarbor Town
+
+---
+
+Route 114
 Swablu
 Swablu
 Zangoose
@@ -541,7 +589,9 @@ Wooper
 Quagsire
 Quagsire
 
----Meteor Falls
+---
+
+Meteor Falls
 Solrock
 Solrock
 Lunatone
@@ -610,7 +660,9 @@ Barboach
 Whiscash
 Whiscash
 
----Route 115
+---
+
+Route 115
 Swablu
 Swablu
 Taillow
@@ -640,10 +692,13 @@ Wailmer
 Pelipper
 Pelipper
 
----Mt Chimney
-xxx
+---
 
----Jagged Pass
+Mt Chimney
+
+---
+
+Jagged Pass
 Numel
 Houndour
 Litleo
@@ -657,13 +712,17 @@ Gothita
 Darumaka
 Darumaka
 
----Lavaridge Town
-xxx
+---
 
----Southern Island
-xxx
+Lavaridge Town
 
----Route 119
+---
+
+Southern Island
+
+---
+
+Route 119
 Linoone
 Linoone
 Tropius
@@ -693,10 +752,13 @@ Wingull
 Pelipper
 Pelipper
 
----Fortree City
-xxx
+---
 
----Route 120
+Fortree City
+
+---
+
+Route 120
 Linoone
 Linoone
 Tropius
@@ -726,7 +788,9 @@ Wingull
 Pelipper
 Pelipper
 
----Scorched Slab
+---
+
+Scorched Slab
 Aron
 Aron
 Zubat
@@ -756,7 +820,9 @@ Golbat
 Golbat
 Golbat
 
----Route 121
+---
+
+Route 121
 Linoone
 Linoone
 Elgyem
@@ -770,7 +836,9 @@ Pawniard
 Kecleon
 Kecleon
 
----Safari Zone 1
+---
+
+Safari Zone 1
 Doduo
 Doduo
 Rhyhorn
@@ -800,7 +868,9 @@ Omanyte
 Omanyte
 Omanyte
 
----Safari Zone 2
+---
+
+Safari Zone 2
 Doduo
 Doduo
 Rhyhorn
@@ -830,7 +900,9 @@ Tirtouga
 Tirtouga
 Tirtouga
 
----Safari Zone 3
+---
+
+Safari Zone 3
 Doduo
 Doduo
 Cranidos
@@ -860,7 +932,9 @@ Omanyte
 Omanyte
 Omanyte
 
----Safari Zone 4
+---
+
+Safari Zone 4
 Doduo
 Doduo
 Cranidos
@@ -890,7 +964,9 @@ Tirtouga
 Tirtouga
 Tirtouga
 
----Lilycove City
+---
+
+Lilycove City
 Geodude
 Roggenrola
 Graveler
@@ -913,7 +989,9 @@ Frillish
 Jellicent
 Jellicent
 
----Route 122
+---
+
+Route 122
 Magikarp
 Magikarp
 Feebas
@@ -930,7 +1008,9 @@ Frillish
 Jellicent
 Jellicent
 
----Route 123
+---
+
+Route 123
 Linoone
 Drifloon
 Snubbull
@@ -960,7 +1040,9 @@ Surskit
 Masquerain
 Masquerain
 
----Mt. Pyre
+---
+
+Mt. Pyre
 Duskull
 Duskull
 Shuppet
@@ -1039,7 +1121,9 @@ Misdreavus
 Honedge
 Honedge
 
----Team Magma/Aqua Hideout
+---
+
+Team Magma/Aqua Hideout
 Magikarp
 Magikarp
 Feebas
@@ -1056,7 +1140,9 @@ Seel
 Dewgong
 Dewgong
 
----Route 124
+---
+
+Route 124
 Magikarp
 Magikarp
 Feebas
@@ -1073,7 +1159,9 @@ Wingull
 Pelipper
 Pelipper
 
----Mossdeep City
+---
+
+Mossdeep City
 Magikarp
 Magikarp
 Feebas
@@ -1090,7 +1178,9 @@ Psyduck
 Slowpoke
 Alomomola
 
----Route 125
+---
+
+Route 125
 Magikarp
 Magikarp
 Feebas
@@ -1107,7 +1197,9 @@ Seel
 Dewgong
 Dewgong
 
----Shoal Cave
+---
+
+Shoal Cave
 Zubat
 Zubat
 Woobat
@@ -1156,7 +1248,9 @@ Seel
 Dewgong
 Dewgong
 
----Route 127
+---
+
+Route 127
 Magikarp
 Magikarp
 Feebas
@@ -1173,7 +1267,9 @@ Wailmer
 Wailmer
 Pelipper
 
----Route 128
+---
+
+Route 128
 Magikarp
 Magikarp
 Feebas
@@ -1190,7 +1286,9 @@ Wailmer
 Wailmer
 Gastrodon
 
----Seafloor Cavern
+---
+
+Seafloor Cavern
 Zubat
 Zubat
 Woobat
@@ -1226,7 +1324,9 @@ Wailmer
 Wailmer
 Wailmer
 
----Route 126
+---
+
+Route 126
 Magikarp
 Magikarp
 Feebas
@@ -1243,7 +1343,9 @@ Frillish
 Frillish
 Pelipper
 
----Sootopolis City
+---
+
+Sootopolis City
 Magikarp
 Horsea
 Feebas
@@ -1260,7 +1362,9 @@ Staryu
 Sealeo
 Gastrodon
 
----Cave of Origin
+---
+
+Cave of Origin
 Zubat
 Zubat
 Woobat
@@ -1274,7 +1378,9 @@ Druddigon
 Noibat
 Noibat
 
----Route 129
+---
+
+Route 129
 Magikarp
 Magikarp
 Feebas
@@ -1291,7 +1397,9 @@ Frillish
 Frillish
 Jellicent
 
----Route 130
+---
+
+Route 130
 Magikarp
 Magikarp
 Feebas
@@ -1308,7 +1416,9 @@ Wailmer
 Pelipper
 Pelipper
 
----Route 131
+---
+
+Route 131
 Magikarp
 Magikarp
 Feebas
@@ -1325,7 +1435,9 @@ Wingull
 Pelipper
 Pelipper
 
----Pacifidlog Town
+---
+
+Pacifidlog Town
 Magikarp
 Clamperl
 Feebas
@@ -1342,7 +1454,9 @@ Spheal
 Seel
 Pelipper
 
----Route 132
+---
+
+Route 132
 Magikarp
 Magikarp
 Feebas
@@ -1359,7 +1473,9 @@ Wingull
 Pelipper
 Pelipper
 
----Route 133
+---
+
+Route 133
 Magikarp
 Magikarp
 Feebas
@@ -1376,7 +1492,9 @@ Frillish
 Frillish
 Jellicent
 
----Route 134
+---
+
+Route 134
 Magikarp
 Magikarp
 Feebas
@@ -1393,7 +1511,9 @@ Wailmer
 Pelipper
 Pelipper
 
----Sealed Chamber
+---
+
+Sealed Chamber
 Magikarp
 Magikarp
 Feebas
@@ -1410,7 +1530,9 @@ Woobat
 Woobat
 Relicanth
 
----Route 105
+---
+
+Route 105
 Magikarp
 Magikarp
 Feebas
@@ -1427,7 +1549,9 @@ Frillish
 Frillish
 Jellicent
 
----Route 107
+---
+
+Route 107
 Magikarp
 Magikarp
 Feebas
@@ -1444,7 +1568,9 @@ Wailmer
 Wailmer
 Pelipper
 
----Route 108
+---
+
+Route 108
 Magikarp
 Magikarp
 Feebas
@@ -1461,7 +1587,9 @@ Wailmer
 Wailmer
 Alomomola
 
----Sea Mauville
+---
+
+Sea Mauville
 Magikarp
 Magikarp
 Feebas
@@ -1478,7 +1606,9 @@ Frillish
 Frillish
 Jellicent
 
----New Mauville
+---
+
+New Mauville
 Magnemite
 Voltorb
 Elekid
@@ -1492,7 +1622,9 @@ Klefki
 Rotom
 Rotom
 
----Ever Grande City
+---
+
+Ever Grande City
 Magikarp
 Magikarp
 Tentacool
@@ -1509,7 +1641,9 @@ Binacle
 Pelipper
 Alomomola
 
----Victory Road
+---
+
+Victory Road
 Golbat
 Golbat
 Loudred
@@ -1600,10 +1734,13 @@ Shellos
 Shellos
 Lapras
 
----Pokemon League
-xxx
+---
 
----Sky Pillar
+Pokemon League
+
+---
+
+Sky Pillar
 Golbat
 Drifblim
 Ariados
@@ -1617,10 +1754,13 @@ Sableye
 Altaria
 Altaria
 
----S.S. Tidal
-xxx
+---
 
----Battle Resort
+S.S. Tidal
+
+---
+
+Battle Resort
 Magikarp
 Magikarp
 Feebas
@@ -1637,8 +1777,10 @@ Mantyke
 Pelipper
 Mantine
 
----Battle Maison
-xxx
+---
 
----Battle Institute
-xxx`;
+Battle Maison
+
+---
+
+Battle Institute`;
