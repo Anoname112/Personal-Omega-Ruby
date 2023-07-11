@@ -1,4 +1,4 @@
-var encdata = `Littleroot Town
+const encdata = `Littleroot Town
 
 ---
 
