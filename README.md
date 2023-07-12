@@ -27,6 +27,7 @@ File size: 3.11 MB
 https://github.com/Anoname112/Personal-Omega-Ruby
 
 ### Future plans
+- Horde EV Train
 - Evolution methods
 - Trainer changes
 
