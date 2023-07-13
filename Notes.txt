@@ -8,6 +8,12 @@ DONE:
 TO-DO:
 Add alternative to trade evolution
 Horde EV training
+- Route 101 Zigzagoon 1 Speed
+- Route 112 Machop 1 Attack
+- Route 113 Spinda 1 SpAttack
+- Route 116 Nincada 1 Defense
+- Rusturf Tunnel Whismur 1 HP
+- Petalburg Woods Hoppip 1 SpDefense
 Change important battles
 - Brendan/May
 - Wally
