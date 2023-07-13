@@ -1,4 +1,4 @@
-Changes are inside the brackets []
+Changes are indicated with the brackets []
 
 ---
 
