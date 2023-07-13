@@ -4,9 +4,6 @@ DONE:
 [encdata (a013)] Encounter < 18
 - Stick hold by Farfetch
 - Thick Club hold by Cubone
-
-TO-DO:
-Add alternative to trade evolution
 Horde EV training
 - Route 101 Zigzagoon 1 Speed
 - Route 112 Machop 1 Attack
@@ -14,7 +11,7 @@ Horde EV training
 - Route 116 Nincada 1 Defense
 - Rusturf Tunnel Whismur 1 HP
 - Petalburg Woods Hoppip 1 SpDefense
-Change important battles
+[trdata (a036), trpoke (a038)] Change important battles
 - Brendan/May
 - Wally
 - Team Magma/Aqua Leader
@@ -22,4 +19,7 @@ Change important battles
 - Gym Leader
 - Elite Four
 - Champion
+
+TO-DO:
+Add alternative to trade evolution
 Pickup table
