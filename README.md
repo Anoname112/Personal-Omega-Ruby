@@ -9,6 +9,14 @@ Mega Venusaur: -10 Attack, +10 Speed.
 Mega Charizard X: -10 SpAttack, +10 Speed.
 Mega Charizard Y: -10 Attack, +10 Speed.
 Mega Blastoise: -10 Attack, +10 Speed.
+- Horde EV Training
+Route 101 Zigzagoon 1 Speed.
+Route 112 Machop 1 Attack.
+Route 113 Spinda 1 SpAttack.
+Route 116 Nincada 1 Defense.
+Rusturf Tunnel Whismur 1 HP.
+Petalburg Woods Hoppip 1 SpDefense.
+- <a href="https://github.com/Anoname112/Personal-Omega-Ruby/blob/main/Important%20Battles.txt">Trainer changes</a>
 
 ### Screenshots
 <img src="https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/FrenzyPlant.png">
@@ -27,9 +35,8 @@ File size: 3.11 MB
 https://github.com/Anoname112/Personal-Omega-Ruby
 
 ### Future plans
-- Horde EV Train
-- Evolution methods
-- Trainer changes
+- Alternative to Trade Evolution
+
 
 <!--
 [CENTER][SIZE="5"][B]Personal Omega Ruby[/B][/SIZE]
