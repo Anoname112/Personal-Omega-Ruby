@@ -135,18 +135,18 @@ Gallade 48 Galladite
 ---
 
 Sidney [+5]
-Mightyena 50 [Leftovers]
-Shiftry 50 [Leftovers]
-Cacturne 50 [Leftovers]
-Sharpedo 50 [Leftovers]
-Abaol 52 [Leftovers]
+Mightyena 50 [Black Glasses]
+Shiftry 50 [Black Glasses]
+Cacturne 50 [Black Glasses]
+Sharpedo 50 [Black Glasses]
+Abaol 52 [Black Glasses]
 
 Phoebe [+5]
-Dusclops 51 [Leftovers]
-Banette 51 [Leftovers]
-Sableye 51 [Leftovers]
-Banette 51 [Leftovers]
-Dusknoir 53 [Leftovers]
+Dusclops 51 [Spell Tag]
+Banette 51 [Spell Tag]
+Sableye 51 [Spell Tag]
+Banette 51 [Spell Tag]
+Dusknoir 53 [Spell Tag]
 
 Glacia [+5]
 Glalie 52 [Never-Melt Ice]
@@ -221,18 +221,18 @@ Salamence 62 Salamencite
 
 Sidney [+6]
 Scrafty 70 [Black Glasses]
-Shiftry 70 [Leftovers]
-Zoroark 70 [Leftovers]
-Sharpedo 70 [Leftovers]
-Mandibuzz 70 [Leftovers]
+Shiftry 70 [Black Glasses]
+Zoroark 70 [Black Glasses]
+Sharpedo 70 [Black Glasses]
+Mandibuzz 70 [Black Glasses]
 Absol 72 Absolite
 
 Phoebe [+6]
 Banette 71 [Spell Tag]
-Mismagius 71 [Leftovers]
-Drifblim 71 [Leftovers]
-Chandelure 71 [Leftovers]
-Dusknoir 71 [Leftovers]
+Mismagius 71 [Spell Tag]
+Drifblim 71 [Spell Tag]
+Chandelure 71 [Spell Tag]
+Dusknoir 71 [Spell Tag]
 Sableye 73 Sablenite
 
 Glacia [+6]
