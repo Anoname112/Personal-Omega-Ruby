@@ -1,0 +1,279 @@
+Changes are inside the brackets []
+
+---
+
+Brendan/May Route 103
+Treecko 5
+
+Torchic 5
+
+Mudkip 5
+
+---
+
+Roxanne
+Geodude 12 [Hard Stone]
+Nosepass 14 [Hard Stone]
+
+---
+
+Brawly [+1]
+Machop 14 [Black Belt]
+Makuhita 16 [Black Belt]
+
+---
+
+Brendan/May Route 110 [+1]
+Slugma 18 [Leftovers]
+Wailmer 18 [Leftovers]
+Grovyle 20 [Leftovers]
+
+Shroomish 18 [Leftovers]
+Wailmer 18 [Leftovers]
+Combusken 20 [Leftovers]
+
+Shroomish 18 [Leftovers]
+Slugma 18 [Leftovers]
+Marshtomp 20 [Leftovers]
+
+---
+
+Wally Mauville City
+Ralts 17
+
+---
+
+Wattson [+1]
+Magnemite 19 [Magnet]
+Voltorb 19 [Magnet]
+Magneton 21 [Magnet]
+
+---
+
+Brendan/May Meteor Falls Multi Battles
+24 24 26
+
+---
+
+Flannery [+2]
+Slugma 26 [Charcoal]
+Numel 26 [Charcoal]
+Torkoal 28 [Charcoal]
+
+---
+
+Norman [+2]
+Slaking 28 [Silk Scarf]
+Vigoroth 28 [Silk Scarf]
+Slaking 30 [Silk Scarf]
+
+---
+
+Brendan/May Route 119 [+2]
+Slugma 31 [Leftovers]
+Wailmer 31 [Leftovers]
+Grovyle 33 [Leftovers]
+
+Shroomish 31 [Leftovers]
+Wailmer 31 [Leftovers]
+Combusken 33 [Leftovers]
+
+Shroomish 31 [Leftovers]
+Slugma 31 [Leftovers]
+Marshtomp 33 [Leftovers]
+
+---
+
+Winona [+3]
+Swellow 33 [Sharp Beak]
+Pelipper 33 [Sharp Beak]
+Skarmory 33 [Sharp Beak]
+Altaria 35 [Dragon Fang]
+
+---
+
+Brendan/May Lilycove City [+3]
+Swellow 37 [Leftovers]
+Magcargo 37 [Leftovers]
+Wailord 37 [Leftovers]
+Sceptile 39 [Leftovers]
+
+Swellow 37 [Leftovers]
+Breloom 37 [Leftovers]
+Wailord 37 [Leftovers]
+Blaziken 39 [Leftovers]
+
+Swellow 37 [Leftovers]
+Breloom 37 [Leftovers]
+Magcargo 37 [Leftovers]
+Swampert 39 [Leftovers]
+
+---
+
+Tate and Liza [+3]
+Lunatone 45 [Twisted Spoon]
+Solrock 45 [Twisted Spoon]
+
+---
+
+Wallace [+4]
+Luvdisc 44 [Mystic Water]
+Whiscash 44 [Mystic Water]
+Sealeo 44 [Mystic Water]
+Seaking 44 [Mystic Water]
+Milotic 46 [Mystic Water]
+
+---
+
+Wally Victory Road [+4]
+Altaria 46 [Leftovers]
+Delcatty 46 [Leftovers]
+Roselia 46 [Leftovers]
+Magneton 46 [Leftovers]
+Gallade 48 Galladite
+
+---
+
+Sidney [+5]
+Mightyena 50 [Leftovers]
+Shiftry 50 [Leftovers]
+Cacturne 50 [Leftovers]
+Sharpedo 50 [Leftovers]
+Abaol 52 [Leftovers]
+
+Phoebe [+5]
+Dusclops 51 [Leftovers]
+Banette 51 [Leftovers]
+Sableye 51 [Leftovers]
+Banette 51 [Leftovers]
+Dusknoir 53 [Leftovers]
+
+Glacia [+5]
+Glalie 52 [Leftovers]
+Froslass 52 [Leftovers]
+Glalie 52 [Leftovers]
+Froslaaa 52 [Leftovers]
+Walrein 54 [Leftovers]
+
+Drake [+5]
+Altaria 53 [Leftovers]
+Flygon 53 [Leftovers]
+Kingdra 53 [Leftovers]
+Flygon 53 [Leftovers]
+Salamence 55 [Leftovers]
+
+Steven [+5]
+Skarmory 57 [Leftovers]
+Claydol 57 [Leftovers]
+Aggron 57 [Leftovers]
+Cradily 57 [Leftovers]
+Armaldo 57 [Leftovers]
+Metagross 59 Metagrossite
+
+---
+
+Brendan/May Route 103 [+5]
+Swellow 48 [Leftovers]
+Raichu 48 [Leftovers]
+Magcargo 48 [Leftovers]
+Wailord 48 [Leftovers]
+Sceptile 50 Sceptilite
+
+Swellow 48 [Leftovers]
+Raichu 48 [Leftovers]
+Breloom 48 [Leftovers]
+Wailord 48 [Leftovers]
+Blaziken 50 Blazikenite
+
+Swellow 48 [Leftovers]
+Raichu 48 [Leftovers]
+Breloom 48 [Leftovers]
+Magcargo 48 [Leftovers]
+Swampert 50 Swampertite
+
+---
+
+Zinnia Granite Cave [+5]
+Tyrantrum 55 [Dragon Fang]
+Altaria 55 [Dragon Fang]
+Salamence 57 [Dragon Fang]
+
+---
+
+Wallace Route 131 [+5]
+Wailord 55 [Mystic Water]
+Tentacruel 55 [Mystic Water]
+Ludicolo 55 [Mystic Water]
+Whiscash 55 [Mystic Water]
+Gyarados 55 [Mystic Water]
+Milotic 55 [Mystic Water]
+
+---
+
+Zinnia Sky Pillar [+5]
+Goodra 60 [Dragon Fang]
+Tyrantrum 60 [Dragon Fang]
+Altaria 60 [Dragon Fang]
+Noivern 60 [Dragon Fang]
+Salamence 62 Salamencite
+
+---
+
+Sidney [+6]
+Scrafty 70 [Leftovers]
+Shiftry 70 [Leftovers]
+Zoroark 70 [Leftovers]
+Sharpedo 70 [Leftovers]
+Mandibuzz 70 [Leftovers]
+Absol 72 Absolite
+
+Phoebe [+6]
+Banette 71 [Leftovers]
+Mismagius 71 [Leftovers]
+Drifblim 71 [Leftovers]
+Chandelure 71 [Leftovers]
+Dusknoir 71 [Leftovers]
+Sableye 73 Sablenite
+
+Glacia [+6]
+Abomasnow 72 [Leftovers]
+Beartic 72 [Leftovers]
+Froslass 72 [Leftovers]
+Vanilluxe 72 [Leftovers]
+Walrein 72 [Leftovers]
+Glalie 74 Galitite
+
+Drake [+6]
+Altaria 73 [Leftovers]
+Dragalge 73 [Leftovers]
+Kingdra 73 [Leftovers]
+Flygon 73 [Leftovers]
+Haxorus 73 [Leftovers]
+Salamence 75 Salamencite
+
+Steven [+6]
+Skarmory 77 [Leftovers]
+Claydol 77 [Leftovers]
+Aggron 77 [Leftovers]
+Carbink 77 [Leftovers]
+Aerodactyl 77 [Leftovers]
+Metagross 79 Metagrossite
+
+---
+
+Wally Battle Maison [+6]
+Altaria 64 [Leftovers]
+Delcatty 64 [Leftovers]
+Roserade 64 [Leftovers]
+Magnezone 64 [Leftovers]
+Gallade 66 Galladite
+
+---
+
+Wally Battle Maison [+6]
+Roserade 79 Bright Powder
+Talonflame 79 Life Orb
+Azumarill 79 Assault Vest
+Magnezone 79 Air Balloon
+Garchomp 79 Rocky Helmet
+Gallade 81 Galladite
