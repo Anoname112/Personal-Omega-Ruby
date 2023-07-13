@@ -1,0 +1,19 @@
+DONE:
+[personal (a195)] Buff Kanto starter Mega
+[move (a189), gametext (a073)] Buff starter ultimate Moves (100 accuracy, no recharge, special effect)
+[encdata (a013)] Encounter < 18
+- Stick hold by Farfetch
+- Thick Club hold by Cubone
+
+TO-DO:
+Add alternative to trade evolution
+Horde EV training
+Change important battles
+- Brendan/May
+- Wally
+- Team Magma/Aqua Leader
+- Zinnia
+- Gym Leader
+- Elite Four
+- Champion
+Pickup table
