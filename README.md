@@ -43,25 +43,37 @@ https://github.com/Anoname112/Personal-Omega-Ruby
 [CENTER][SIZE="5"][B]Personal Omega Ruby[/B][/SIZE]
 [SIZE="2"]Omega Ruby personalized to my liking[/SIZE][/CENTER]
 
+[SIZE="4"][B]Introduction[/B][/SIZE]
+Omega Ruby is a game that have everything I like. All the Megas, Gengar with Levitate, but no Z-moves or DMax. That's why I chose it to personalize. The goal is to make Omega Ruby a more fulfilling experience. Improving the game's repeatability and Nuzloke playthrough with the modified wild encounters.
+
 [SIZE="4"][B]Features[/B][/SIZE]
 [LIST]
 [*][URL="https://anoname112.github.io/Personal-Omega-Ruby/"]Wild encounters[/URL] modified to make many Pokemon from gen 1 to 6 available, but Hoenn natives are still the majority.
 [*]Starter ultimate moves are modified because they are the 'ultimate' moves, not the inferior moves.
-[SPOILER][SIZE="2"]100 accuracy, no recharge, and added effect.[/SIZE][/SPOILER]
+[SPOILER][SIZE="2"]100 Accuracy, no recharge, and added effect.[/SIZE][/SPOILER]
 [*]Base stats of mega Kanto starters are modified.
 [SPOILER][B][SIZE="2"]Mega Venusaur:[/B] -10 Attack, +10 Speed
 [B]Mega Charizard X:[/B] -10 SpAttack, +10 Speed
 [B]Mega Charizard Y:[/B] -10 Attack, +10 Speed
 [B]Mega Blastoise:[/B] -10 Attack, +10 Speed[/SIZE][/SPOILER]
+[*]Horde EV training.
+[SPOILER][SIZE="2"][B]Route 101:[/B] Zigzagoon, 1 Speed
+[B]Route 112:[/B] Machop, 1 Attack
+[B]Route 113:[/B] Spinda, 1 SpAttack
+[B]Route 116:[/B] Nincada, 1 Defense
+[B]Rusturf Tunnel:[/B] Whismur, 1 HP
+[B]Petalburg Woods:[/B] Hoppip, 1 SpDefense[/SIZE][/SPOILER]
+[*][URL="https://github.com/Anoname112/Personal-Omega-Ruby/blob/main/Important%20Battles.txt"]Important Battle changes.[/URL]
 [/LIST]
 
 [SIZE="4"][B]Screenshots[/B][/SIZE]
-[SPOILER][CIMG="width: 600px; height: 300px;"]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/FrenzyPlant.png[/CIMG]
-[CIMG="width: 600px; height: 300px;"]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/SpeedBuff.png[/CIMG]
-[CIMG="width: 600px; height: 300px;"]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/WildEncounter.png[/CIMG][/SPOILER]
+[SPOILER][IMG]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/FrenzyPlant.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/SpeedBuff.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/WildEncounter.png[/IMG]
+[IMG]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/TrainerChanges.png[/IMG][/SPOILER]
 
 [SIZE="4"][B]Download [URL="https://anoname112.github.io/Personal-Omega-Ruby/PersonalOmegaRuby.zip"][here][/URL][/B][/SIZE]
-[SIZE="2"]File size: 3.11 MB[/SIZE]
+[SIZE="2"]File size: 3.13 MB[/SIZE]
 
 [SIZE="4"][B]How to install[/B][/SIZE]
 [LIST=1]
@@ -69,6 +81,9 @@ https://github.com/Anoname112/Personal-Omega-Ruby
 [*]Open Citra, in the rom list right click Pokemon Omega Ruby and select 'Open Mods Location'
 [*]Copy the romfs folder to the opened directory
 [/LIST]
+
+[SIZE="4"][B]Future Plans[/B][/SIZE]
+- Add alternatives to Trade evolution
 
 [SIZE="4"][B]Credits[/B][/SIZE]
 Kurt for the pk3DS.
