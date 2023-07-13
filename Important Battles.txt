@@ -149,25 +149,25 @@ Banette 51 [Leftovers]
 Dusknoir 53 [Leftovers]
 
 Glacia [+5]
-Glalie 52 [Leftovers]
-Froslass 52 [Leftovers]
-Glalie 52 [Leftovers]
-Froslaaa 52 [Leftovers]
-Walrein 54 [Leftovers]
+Glalie 52 [Never-Melt Ice]
+Froslass 52 [Never-Melt Ice]
+Glalie 52 [Never-Melt Ice]
+Froslaaa 52 [Never-Melt Ice]
+Walrein 54 [Never-Melt Ice]
 
 Drake [+5]
-Altaria 53 [Leftovers]
-Flygon 53 [Leftovers]
-Kingdra 53 [Leftovers]
-Flygon 53 [Leftovers]
-Salamence 55 [Leftovers]
+Altaria 53 [Dragon Fang]
+Flygon 53 [Dragon Fang]
+Kingdra 53 [Dragon Fang]
+Flygon 53 [Dragon Fang]
+Salamence 55 [Dragon Fang]
 
 Steven [+5]
 Skarmory 57 [Leftovers]
-Claydol 57 [Leftovers]
-Aggron 57 [Leftovers]
-Cradily 57 [Leftovers]
-Armaldo 57 [Leftovers]
+Claydol 57 [Light Clay]
+Aggron 57 [Hard Stone]
+Cradily 57 [Hard Stone]
+Armaldo 57 [Hard Stone]
 Metagross 59 Metagrossite
 
 ---
@@ -220,7 +220,7 @@ Salamence 62 Salamencite
 ---
 
 Sidney [+6]
-Scrafty 70 [Leftovers]
+Scrafty 70 [Black Glasses]
 Shiftry 70 [Leftovers]
 Zoroark 70 [Leftovers]
 Sharpedo 70 [Leftovers]
@@ -228,7 +228,7 @@ Mandibuzz 70 [Leftovers]
 Absol 72 Absolite
 
 Phoebe [+6]
-Banette 71 [Leftovers]
+Banette 71 [Spell Tag]
 Mismagius 71 [Leftovers]
 Drifblim 71 [Leftovers]
 Chandelure 71 [Leftovers]
@@ -236,27 +236,27 @@ Dusknoir 71 [Leftovers]
 Sableye 73 Sablenite
 
 Glacia [+6]
-Abomasnow 72 [Leftovers]
-Beartic 72 [Leftovers]
-Froslass 72 [Leftovers]
-Vanilluxe 72 [Leftovers]
-Walrein 72 [Leftovers]
+Abomasnow 72 [Never-Melt Ice]
+Beartic 72 [Never-Melt Ice]
+Froslass 72 [Never-Melt Ice]
+Vanilluxe 72 [Never-Melt Ice]
+Walrein 72 [Never-Melt Ice]
 Glalie 74 Galitite
 
 Drake [+6]
-Altaria 73 [Leftovers]
-Dragalge 73 [Leftovers]
-Kingdra 73 [Leftovers]
-Flygon 73 [Leftovers]
-Haxorus 73 [Leftovers]
+Altaria 73 [Dragon Fang]
+Dragalge 73 [Dragon Fang]
+Kingdra 73 [Dragon Fang]
+Flygon 73 [Dragon Fang]
+Haxorus 73 [Dragon Fang]
 Salamence 75 Salamencite
 
 Steven [+6]
 Skarmory 77 [Leftovers]
-Claydol 77 [Leftovers]
-Aggron 77 [Leftovers]
-Carbink 77 [Leftovers]
-Aerodactyl 77 [Leftovers]
+Claydol 77 [Light Clay]
+Aggron 77 [Hard Stone]
+Carbink 77 [Hard Stone]
+Aerodactyl 77 [Hard Stone]
 Metagross 79 Metagrossite
 
 ---
