@@ -206,7 +206,7 @@ Tentacruel 55 [Mystic Water]
 Ludicolo 55 [Mystic Water]
 Whiscash 55 [Mystic Water]
 Gyarados 55 [Mystic Water]
-Milotic 55 [Mystic Water]
+Milotic 57 [Mystic Water]
 
 ---
 
