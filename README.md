@@ -57,19 +57,26 @@ Omega Ruby is a game that have everything I like. All the Megas, Gengar with Lev
 [B]Mega Charizard Y:[/B] -10 Attack, +10 Speed
 [B]Mega Blastoise:[/B] -10 Attack, +10 Speed[/SIZE][/SPOILER]
 [*]Horde EV training.
-[SPOILER][SIZE="2"][B]Route 101:[/B] Zigzagoon, 1 Speed
-[B]Route 112:[/B] Machop, 1 Attack
-[B]Route 113:[/B] Spinda, 1 SpAttack
-[B]Route 116:[/B] Nincada, 1 Defense
-[B]Rusturf Tunnel:[/B] Whismur, 1 HP
-[B]Petalburg Woods:[/B] Hoppip, 1 SpDefense[/SIZE][/SPOILER]
+[SPOILER][SIZE="2"][B]Route 101:[/B] Zigzagoon, Speed
+[B]Route 112:[/B] Machop, Attack
+[B]Route 113:[/B] Spinda, SpAttack
+[B]Route 116:[/B] Nincada, Defense
+[B]Rusturf Tunnel:[/B] Whismur, HP
+[B]Petalburg Woods:[/B] Hoppip, SpDefense[/SIZE][/SPOILER]
 [*][URL="https://github.com/Anoname112/Personal-Omega-Ruby/blob/main/Important%20Battles.txt"]Important Battle changes.[/URL]
 [/LIST]
 
 [SIZE="4"][B]Screenshots[/B][/SIZE]
-[SPOILER][IMG]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/FrenzyPlant.png[/IMG]
+[SPOILER]Ultimate Moves
+[IMG]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/FrenzyPlant.png[/IMG]
+
+Kanto Mega Base Stats
 [IMG]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/SpeedBuff.png[/IMG]
+
+Wild Encounter
 [IMG]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/WildEncounter.png[/IMG]
+
+Important Battle
 [IMG]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/TrainerChanges.png[/IMG][/SPOILER]
 
 [SIZE="4"][B]Download [URL="https://anoname112.github.io/Personal-Omega-Ruby/PersonalOmegaRuby.zip"][here][/URL][/B][/SIZE]
