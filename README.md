@@ -16,7 +16,7 @@ Route 113 Spinda 1 SpAttack.
 Route 116 Nincada 1 Defense.
 Rusturf Tunnel Whismur 1 HP.
 Petalburg Woods Hoppip 1 SpDefense.
-- <a href="https://github.com/Anoname112/Personal-Omega-Ruby/blob/main/Important%20Battles.txt">Trainer changes</a>
+- <a href="https://github.com/Anoname112/Personal-Omega-Ruby/blob/main/Important%20Battles.txt">Important battle changes</a>
 
 ### Screenshots
 <img src="https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/FrenzyPlant.png">
