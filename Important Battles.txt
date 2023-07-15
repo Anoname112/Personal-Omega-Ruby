@@ -55,6 +55,18 @@ Brendan/May Meteor Falls Multi Battles
 
 ---
 
+Maxie Mt. Chimney [+1]
+Mightyena 25 [Leftovers]
+Golbat 25 [Leftovers]
+Camerupt 27 [Leftovers]
+
+Archie Mt. Chimney [+1]
+Mightyena 25 [Leftovers]
+Golbat 25 [Leftovers]
+Sharpedo 27 [Leftovers]
+
+---
+
 Flannery [+2]
 Slugma 26 [Charcoal]
 Numel 26 [Charcoal]
@@ -113,6 +125,20 @@ Swampert 39 [Leftovers]
 Tate and Liza [+3]
 Lunatone 45 [Twisted Spoon]
 Solrock 45 [Twisted Spoon]
+
+---
+
+Maxie Seafloor Cavern [+3]
+Mightyena 41 [Leftovers]
+Weezing 41 [Leftovers]
+Crobat 41 [Leftovers]
+Camerupt 43 Cameruptite
+
+Archie Seafloor Cavern [+3]
+Mightyena 41 [Leftovers]
+Muk 41 [Leftovers]
+Crobat 41 [Leftovers]
+Sharpedo 43 Sharpedonite
 
 ---
 
