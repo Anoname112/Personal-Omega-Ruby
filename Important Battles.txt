@@ -56,14 +56,14 @@ Brendan/May Meteor Falls Multi Battles
 ---
 
 Maxie Mt. Chimney [+1]
-Mightyena 25 [Leftovers]
-Golbat 25 [Leftovers]
-Camerupt 27 [Leftovers]
+Mightyena 25 [Life Orb]
+Golbat 25 [Life Orb]
+Camerupt 27 [Life Orb]
 
 Archie Mt. Chimney [+1]
-Mightyena 25 [Leftovers]
-Golbat 25 [Leftovers]
-Sharpedo 27 [Leftovers]
+Mightyena 25 [Life Orb]
+Golbat 25 [Life Orb]
+Sharpedo 27 [Life Orb]
 
 ---
 
@@ -129,15 +129,15 @@ Solrock 45 [Twisted Spoon]
 ---
 
 Maxie Seafloor Cavern [+3]
-Mightyena 41 [Leftovers]
-Weezing 41 [Leftovers]
-Crobat 41 [Leftovers]
+Mightyena 41 [Life Orb]
+Weezing 41 [Life Orb]
+Crobat 41 [Life Orb]
 Camerupt 43 Cameruptite
 
 Archie Seafloor Cavern [+3]
-Mightyena 41 [Leftovers]
-Muk 41 [Leftovers]
-Crobat 41 [Leftovers]
+Mightyena 41 [Life Orb]
+Muk 41 [Life Orb]
+Crobat 41 [Life Orb]
 Sharpedo 43 Sharpedonite
 
 ---
