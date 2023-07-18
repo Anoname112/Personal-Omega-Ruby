@@ -25,7 +25,7 @@ Petalburg Woods: Hoppip, SpDefense.
 <img src="https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/TrainerChanges.png">
 
 ### Download <a href="https://anoname112.github.io/Personal-Omega-Ruby/PersonalOmegaRuby.zip">[here]</a>
-File size: 3.13 MB
+File size: 3.09 MB
 
 ### How to install
 - Extract the downloaded .zip file which contain the romfs folder
@@ -80,7 +80,7 @@ Important Battle
 [IMG]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/TrainerChanges.png[/IMG][/SPOILER]
 
 [SIZE="4"][B]Download [URL="https://anoname112.github.io/Personal-Omega-Ruby/PersonalOmegaRuby.zip"][here][/URL][/B][/SIZE]
-[SIZE="2"]File size: 3.13 MB[/SIZE]
+[SIZE="2"]File size: 3.09 MB[/SIZE]
 
 [SIZE="4"][B]How to install[/B][/SIZE]
 [LIST=1]
