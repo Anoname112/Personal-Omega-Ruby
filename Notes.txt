@@ -1,7 +1,7 @@
 DONE:
 [personal (a195)] Buff Kanto starter Mega
 [move (a189), gametext (a073)] Buff starter ultimate Moves (100 accuracy, no recharge, special effect)
-[encdata (a013)] Encounter < 18 Playtesting
+[encdata (a013)] Encounter < 18
 - Stick hold by Farfetch
 - Thick Club hold by Cubone
 Horde EV training
@@ -23,3 +23,4 @@ Horde EV training
 TO-DO:
 Add alternative to Trade evolution
 Pickup table
+Playtesting (done up to Slateport)
