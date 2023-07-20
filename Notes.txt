@@ -5,12 +5,12 @@ DONE:
 - Stick hold by Farfetch
 - Thick Club hold by Cubone
 Horde EV training
-- Route 101 Zigzagoon 1 Speed
-- Route 112 Machop 1 Attack
-- Route 113 Spinda 1 SpAttack
-- Route 116 Nincada 1 Defense
-- Rusturf Tunnel Whismur 1 HP
-- Petalburg Woods Hoppip 1 SpDefense
+- Route 101: Zigzagoon, Speed
+- Route 112: Machop, Attack
+- Route 113: Spinda, SpAttack
+- Route 116: Nincada, Defense
+- Rusturf Tunnel: Whismur, HP
+- Petalburg Woods: Hoppip, SpDefense
 [trdata (a036), trpoke (a038)] Change important battles
 - Brendan/May
 - Wally
