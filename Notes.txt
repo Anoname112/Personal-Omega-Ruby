@@ -23,11 +23,11 @@ Horde EV training
 TO-DO:
 Add alternative to Trade evolution
 Poliwhirl → Politoed Kings Rock
-Kadabra → Alakazam	
-Machoke → Machamp	
-Graveler → Golem	
+Kadabra → Alakazam 38
+Machoke → Machamp 38
+Graveler → Golem 38
 Slowpoke → Slowking	Kings Rock
-Haunter → Gengar	
+Haunter → Gengar 38
 Onix → Steelix Metal Coat
 Rhydon → Rhyperior	Protector
 Seadra → Kingdra Dragon Scale
@@ -40,13 +40,13 @@ Feebas → Milotic Prism Scale
 Dusclops → Dusknoir Reaper Cloth
 Clamperl → Huntail Deep Sea Tooth
 Clamperl → Gorebyss Deep Sea Scale
-Boldore	→ Gigalith
-Gurdurr → Conkeldurr	
+Boldore	→ Gigalith 38
+Gurdurr → Conkeldurr 38
 Karrablast → Escavalier Trade with Shelmet
 Shelmet → Accelgor Trade with Karrablast
 Spritzee → Aromatisse Sachet
 Swirlix → Slurpuff Whipped Dream
-PhantumpPhantump → Trevenant
-Pumpkaboo → Gourgeist
+PhantumpPhantump → Trevenant 32
+Pumpkaboo → Gourgeist 32
 Pickup table
 Playtesting (done up to Slateport)
