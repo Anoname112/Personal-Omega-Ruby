@@ -29,7 +29,7 @@ Graveler → Golem 38
 Slowpoke → Slowking	Kings Rock
 Haunter → Gengar 38
 Onix → Steelix Metal Coat
-Rhydon → Rhyperior	Protector
+Rhydon → Rhyperior Protector
 Seadra → Kingdra Dragon Scale
 Scyther → Scizor Metal Coat
 Electabuzz → Electivire Electirizer
@@ -46,7 +46,7 @@ Karrablast → Escavalier Trade with Shelmet
 Shelmet → Accelgor Trade with Karrablast
 Spritzee → Aromatisse Sachet
 Swirlix → Slurpuff Whipped Dream
-PhantumpPhantump → Trevenant 32
+Phantump → Trevenant 32
 Pumpkaboo → Gourgeist 32
 Pickup table
 Playtesting (done up to Slateport)
