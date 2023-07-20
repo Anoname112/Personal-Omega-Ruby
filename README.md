@@ -17,6 +17,7 @@ Route 116: Nincada, Defense.
 Rusturf Tunnel: Whismur, HP.
 Petalburg Woods: Hoppip, SpDefense.
 - <a href="https://github.com/Anoname112/Personal-Omega-Ruby/blob/main/Important%20Battles.txt">Important battle changes.</a>
+- Alternatives to Trade Evolutions.
 
 ### Screenshots
 <img src="https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/FrenzyPlant.png">
@@ -25,7 +26,7 @@ Petalburg Woods: Hoppip, SpDefense.
 <img src="https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/TrainerChanges.png">
 
 ### Download <a href="https://anoname112.github.io/Personal-Omega-Ruby/PersonalOmegaRuby.zip">[here]</a>
-File size: 3.09 MB
+File size: 3.1 MB
 
 ### How to install
 - Extract the downloaded .zip file which contain the romfs folder
@@ -34,10 +35,6 @@ File size: 3.09 MB
 
 ### More information
 https://github.com/Anoname112/Personal-Omega-Ruby
-
-### Future plans
-- Alternative to Trade Evolution
-
 
 <!--
 [CENTER][SIZE="5"][B]Personal Omega Ruby[/B][/SIZE]
@@ -64,6 +61,8 @@ Omega Ruby is a game that have everything I like. All the Megas, Gengar with Lev
 [B]Rusturf Tunnel:[/B] Whismur, HP
 [B]Petalburg Woods:[/B] Hoppip, SpDefense[/SIZE][/SPOILER]
 [*][URL="https://github.com/Anoname112/Personal-Omega-Ruby/blob/main/Important%20Battles.txt"]Important Battle changes.[/URL]
+[*]Alternatives to Trade Evolutions.
+[SPOILER][SIZE="2"][/SIZE][/SPOILER]
 [/LIST]
 
 [SIZE="4"][B]Screenshots[/B][/SIZE]
@@ -88,9 +87,6 @@ Important Battle
 [*]Open Citra, in the rom list right click Pokemon Omega Ruby and select 'Open Mods Location'
 [*]Copy the romfs folder to the opened directory
 [/LIST]
-
-[SIZE="4"][B]Future Plans[/B][/SIZE]
-- Add alternatives to Trade evolution
 
 [SIZE="4"][B]Credits[/B][/SIZE]
 Kurt for the pk3DS.
