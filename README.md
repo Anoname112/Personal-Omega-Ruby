@@ -80,7 +80,7 @@ Feebas → Milotic, Level up holding Prism Scale
 Dusclops → Dusknoir, Level up holding Reaper Cloth
 Clamperl → Huntail, Level up holding Deep Sea Tooth
 Clamperl → Gorebyss, Level up holding Deep Sea Scale
-Boldore	→ Gigalith, Level 38
+Boldore → Gigalith, Level 38
 Gurdurr → Conkeldurr, Level 38
 Karrablast → Escavalier, Level up with Shelmet in party
 Shelmet → Accelgor, Level up with Karrablast in party
