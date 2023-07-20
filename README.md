@@ -34,7 +34,7 @@ File size: 3.1 MB
 - Copy the romfs folder to the opened directory
 
 ### More information
-https://github.com/Anoname112/Personal-Omega-Ruby
+https://www.pokecommunity.com/showthread.php?t=498566
 
 <!--
 [CENTER][SIZE="5"][B]Personal Omega Ruby[/B][/SIZE]
