@@ -62,7 +62,32 @@ Omega Ruby is a game that have everything I like. All the Megas, Gengar with Lev
 [B]Petalburg Woods:[/B] Hoppip, SpDefense[/SIZE][/SPOILER]
 [*][URL="https://github.com/Anoname112/Personal-Omega-Ruby/blob/main/Important%20Battles.txt"]Important Battle changes.[/URL]
 [*]Alternatives to Trade Evolutions.
-[SPOILER][SIZE="2"][/SIZE][/SPOILER]
+[SPOILER][SIZE="2"]Poliwhirl → Politoed, Level up holding King's Rock
+Kadabra → Alakazam, Level 38
+Machoke → Machamp, Level 38
+Graveler → Golem, Level 38
+Slowpoke → Slowking, Level up holding	Kings Rock
+Haunter → Gengar, Level 38
+Onix → Steelix, Level up holding Metal Coat
+Rhydon → Rhyperior, Level up holding Protector
+Seadra → Kingdra, Level up holding Dragon Scale
+Scyther → Scizor, Level up holding Metal Coat
+Electabuzz → Electivire, Level up holding Electirizer
+Magmar → Magmortar, Level up holding Magmarizer
+Porygon → Porygon2, Level up holding Upgrade
+Porygon2 → Porygon-Z, Level up holding Dubious Disc
+Feebas → Milotic, Level up holding Prism Scale
+Dusclops → Dusknoir, Level up holding Reaper Cloth
+Clamperl → Huntail, Level up holding Deep Sea Tooth
+Clamperl → Gorebyss, Level up holding Deep Sea Scale
+Boldore	→ Gigalith, Level 38
+Gurdurr → Conkeldurr, Level 38
+Karrablast → Escavalier, Level up with Shelmet in party
+Shelmet → Accelgor, Level up with Karrablast in party
+Spritzee → Aromatisse, Level up holding Sachet
+Swirlix → Slurpuff, Level up holding Whipped Dream
+Phantump → Trevenant, Level 32
+Pumpkaboo → Gourgeist, Level 32[/SIZE][/SPOILER]
 [/LIST]
 
 [SIZE="4"][B]Screenshots[/B][/SIZE]
@@ -79,7 +104,7 @@ Important Battle
 [IMG]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/TrainerChanges.png[/IMG][/SPOILER]
 
 [SIZE="4"][B]Download [URL="https://anoname112.github.io/Personal-Omega-Ruby/PersonalOmegaRuby.zip"][here][/URL][/B][/SIZE]
-[SIZE="2"]File size: 3.09 MB[/SIZE]
+[SIZE="2"]File size: 3.1 MB[/SIZE]
 
 [SIZE="4"][B]How to install[/B][/SIZE]
 [LIST=1]
