@@ -66,7 +66,7 @@ Omega Ruby is a game that have everything I like. All the Megas, Gengar with Lev
 Kadabra → Alakazam, Level 38
 Machoke → Machamp, Level 38
 Graveler → Golem, Level 38
-Slowpoke → Slowking, Level up holding	Kings Rock
+Slowpoke → Slowking, Level up holding	King's Rock
 Haunter → Gengar, Level 38
 Onix → Steelix, Level up holding Metal Coat
 Rhydon → Rhyperior, Level up holding Protector
