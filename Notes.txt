@@ -20,32 +20,32 @@ Horde EV training
 - Elite Four
 - Champion
 [evolution (a192)] Add alternative to Trade evolution
-Poliwhirl → Politoed Kings Rock
-Kadabra → Alakazam 38
-Machoke → Machamp 38
-Graveler → Golem 38
-Slowpoke → Slowking	Kings Rock
-Haunter → Gengar 38
-Onix → Steelix Metal Coat
-Rhydon → Rhyperior Protector
-Seadra → Kingdra Dragon Scale
-Scyther → Scizor Metal Coat
-Electabuzz → Electivire Electirizer
-Magmar → Magmortar Magmarizer
-Porygon → Porygon2 Upgrade
-Porygon2 → Porygon-Z Dubious Disc
-Feebas → Milotic Prism Scale
-Dusclops → Dusknoir Reaper Cloth
-Clamperl → Huntail Deep Sea Tooth
-Clamperl → Gorebyss Deep Sea Scale
-Boldore	→ Gigalith 38
-Gurdurr → Conkeldurr 38
-Karrablast → Escavalier Trade with Shelmet
-Shelmet → Accelgor Trade with Karrablast
-Spritzee → Aromatisse Sachet
-Swirlix → Slurpuff Whipped Dream
-Phantump → Trevenant 32
-Pumpkaboo → Gourgeist 32
+Poliwhirl → Politoed, Level up holding King's Rock
+Kadabra → Alakazam, Level 38
+Machoke → Machamp, Level 38
+Graveler → Golem, Level 38
+Slowpoke → Slowking, Level up holding	King's Rock
+Haunter → Gengar, Level 38
+Onix → Steelix, Level up holding Metal Coat
+Rhydon → Rhyperior, Level up holding Protector
+Seadra → Kingdra, Level up holding Dragon Scale
+Scyther → Scizor, Level up holding Metal Coat
+Electabuzz → Electivire, Level up holding Electirizer
+Magmar → Magmortar, Level up holding Magmarizer
+Porygon → Porygon2, Level up holding Upgrade
+Porygon2 → Porygon-Z, Level up holding Dubious Disc
+Feebas → Milotic, Level up holding Prism Scale
+Dusclops → Dusknoir, Level up holding Reaper Cloth
+Clamperl → Huntail, Level up holding Deep Sea Tooth
+Clamperl → Gorebyss, Level up holding Deep Sea Scale
+Boldore	→ Gigalith, Level 38
+Gurdurr → Conkeldurr, Level 38
+Karrablast → Escavalier, Level up with Shelmet in party
+Shelmet → Accelgor, Level up with Karrablast in party
+Spritzee → Aromatisse, Level up holding Sachet
+Swirlix → Slurpuff, Level up holding Whipped Dream
+Phantump → Trevenant, Level 32
+Pumpkaboo → Gourgeist, Level 32
 
 TO-DO:
 Pickup table
