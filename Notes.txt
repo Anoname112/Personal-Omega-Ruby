@@ -1,5 +1,5 @@
 DONE:
-[personal (a195)] Buff Kanto starter Mega
+[personal (a195)] Buff Kanto starters Mega base stats 
 [move (a189), gametext (a073)] Buff starters Ultimate Moves (100 Accuracy, no recharge, special effect)
 [encdata (a013)] Encounter < 18
 - Stick hold by Farfetch
