@@ -49,4 +49,4 @@ Pumpkaboo → Gourgeist, Level 32
 
 TO-DO:
 Pickup table
-Playtesting (done up to Slateport)
+Playtesting (done up to Route 110)
