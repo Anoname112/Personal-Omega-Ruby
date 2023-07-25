@@ -49,4 +49,5 @@ Pumpkaboo → Gourgeist, Level 32
 
 TO-DO:
 Pickup table
-Playtesting (done up to Route 110)
+Playtesting (done up to Route 110 after Rival)
+Record gamplay video
