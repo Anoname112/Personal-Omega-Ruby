@@ -51,3 +51,4 @@ TO-DO:
 Pickup table
 Playtesting (done up to Route 110 after Rival)
 Record gamplay video
+Make Prism Scale available
