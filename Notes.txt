@@ -1,6 +1,9 @@
 DONE:
 [personal (a195)] Buff Kanto starters Mega base stats 
 [move (a189), gametext (a073)] Buff starters Ultimate Moves (100 Accuracy, no recharge, special effect)
+- Frenzy Plant: Inflict poison
+- Blast Burn: Inflict burn
+- Hydro Cannon: 10% flinch
 [encdata (a013)] Encounter < 18
 - Stick: hold by Farfetch'd
 - Thick Club: hold by Cubone
