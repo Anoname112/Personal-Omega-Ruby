@@ -50,5 +50,5 @@ Pumpkaboo → Gourgeist, Level 32
 TO-DO:
 Pickup table
 Playtesting (done up to Route 110 after Rival)
-Record gameplay video
+Record gameplay video (done up to Phoebe)
 Make Prism Scale available
