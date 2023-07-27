@@ -24,7 +24,7 @@ File size: 3.1 MB
 - Copy the romfs folder to the opened directory
 
 ### More information
-PokeCommunity Thread: https://www.pokecommunity.com/showthread.php?t=498566
+PokeCommunity Thread: https://www.pokecommunity.com/showthread.php?t=498566<br />
 Gameplay Video: https://www.youtube.com/watch?v=JouLe7DYVAE
 
 <!--
