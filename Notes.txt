@@ -11,6 +11,8 @@ DONE:
 [encdata (a013)] Encounter < 18
 - Stick: hold by Farfetch'd
 - Thick Club: hold by Cubone
+- Prism Scale: hold by Feebas
+- Lucky Punch: hold by Chansey
 Horde EV training
 - Route 101: Zigzagoon, Speed
 - Route 112: Machop, Attack
@@ -58,6 +60,3 @@ Record gameplay video
 TO-DO:
 Pickup table
 Playtesting (done up to Route 110 after Rival)
-Make Prism Scale available (make wild Feebas 5% hold)
-Make Lucky Punch available (wild Chansey)
-Make Miltank available (Moomoo Milk)
