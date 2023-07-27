@@ -25,8 +25,8 @@ File size: 3.14 MB
 - Copy the romfs folder to the opened directory
 
 ### More information
-PokeCommunity Thread: https://www.pokecommunity.com/showthread.php?t=498566<br />
-Gameplay Video: https://www.youtube.com/watch?v=JouLe7DYVAE
+PokeCommunity thread: https://www.pokecommunity.com/showthread.php?t=498566<br />
+Gameplay video: https://www.youtube.com/watch?v=JouLe7DYVAE
 
 <!--
 [CENTER][SIZE="5"][B]Personal Omega Ruby[/B][/SIZE]
