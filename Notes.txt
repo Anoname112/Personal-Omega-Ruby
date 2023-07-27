@@ -61,4 +61,3 @@ Playtesting (done up to Route 110 after Rival)
 Make Prism Scale available (make wild Feebas 5% hold)
 Make Lucky Punch available (wild Chansey)
 Make Miltank available (Moomoo Milk)
-Fix change Chimecho to Chingling
