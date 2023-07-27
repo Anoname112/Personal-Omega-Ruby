@@ -16,7 +16,7 @@ Omega Ruby personalized to my liking.
 <img src="https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/TrainerChanges.png">
 
 ### Video
-[![Elite Four Rematch](https://img.youtube.com/vi/JouLe7DYVAE/0.jpg)](https://www.youtube.com/watch?v=JouLe7DYVAE)
+[![Elite Four Rematch](https://img.youtube.com/vi/JouLe7DYVAE/hqdefault.jpg)](https://www.youtube.com/watch?v=JouLe7DYVAE)
 
 ### Download <a href="https://anoname112.github.io/Personal-Omega-Ruby/PersonalOmegaRuby.zip">[here]</a>
 File size: 3.1 MB
