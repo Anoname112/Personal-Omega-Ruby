@@ -53,9 +53,9 @@ Horde EV training
 - Swirlix → Slurpuff, Level up holding Whipped Dream
 - Phantump → Trevenant, Level 32
 - Pumpkaboo → Gourgeist, Level 32
+Record gameplay video
 
 TO-DO:
 Pickup table
 Playtesting (done up to Route 110 after Rival)
-Record gameplay video (done up to Phoebe)
 Make Prism Scale available
