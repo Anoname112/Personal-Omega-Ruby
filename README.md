@@ -16,7 +16,7 @@ Omega Ruby personalized to my liking.
 <img src="https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/TrainerChanges.png">
 
 ### Download <a href="https://anoname112.github.io/Personal-Omega-Ruby/PersonalOmegaRuby.zip">[here]</a>
-File size: 3.1 MB
+File size: 3.14 MB
 
 ### How to install
 - Extract the downloaded .zip file which contain the romfs folder
