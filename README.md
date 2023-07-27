@@ -5,6 +5,7 @@ Omega Ruby personalized to my liking.
 - <a href="https://anoname112.github.io/Personal-Omega-Ruby/">Wild encounters</a> modified to make many Pokemon from gen 1 to 6 available, but Hoenn natives are still the majority.
 - Starter ultimate moves are modified because they are the 'ultimate' moves, not the inferior moves.
 - Base stats of mega Kanto starters are modified.
+- Feebas now have 5% chance to hold Prism Scale.
 - Horde EV Training.
 - <a href="https://github.com/Anoname112/Personal-Omega-Ruby/blob/main/Important%20Battles.txt">Important battle changes.</a>
 - Alternatives to Trade Evolutions.
@@ -44,6 +45,7 @@ Omega Ruby is a game that have everything I like. All the Megas, Gengar with Lev
 [B]Mega Charizard X:[/B] -10 SpAttack, +10 Speed
 [B]Mega Charizard Y:[/B] -10 Attack, +10 Speed
 [B]Mega Blastoise:[/B] -10 Attack, +10 Speed[/SIZE][/SPOILER]
+[*]Feebas now have 5% chance to hold Prism Scale.
 [*]Horde EV training.
 [SPOILER][SIZE="2"][B]Route 101:[/B] Zigzagoon, Speed
 [B]Route 112:[/B] Machop, Attack
