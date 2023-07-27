@@ -11,7 +11,7 @@ DONE:
 [encdata (a013)] Encounter < 18
 - Stick: hold by Farfetch'd
 - Thick Club: hold by Cubone
-- Prism Scale: hold by Feebas
+- Prism Scale: hold by Feebas 5%
 - Lucky Punch: hold by Chansey
 Horde EV training
 - Route 101: Zigzagoon, Speed
