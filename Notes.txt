@@ -59,3 +59,4 @@ TO-DO:
 Pickup table
 Playtesting (done up to Route 110 after Rival)
 Make Prism Scale available
+Make Lucky Punch available (wild Chansey)
