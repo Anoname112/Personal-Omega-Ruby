@@ -873,8 +873,8 @@ Omanyte
 Safari Zone 2
 Doduo
 Doduo
-Rhyhorn
-Rhyhorn
+Miltank
+Miltank
 Girafarig
 Girafarig
 Shuckle
@@ -937,8 +937,8 @@ Omanyte
 Safari Zone 4
 Doduo
 Doduo
-Cranidos
-Cranidos
+Chansey
+Chansey
 Eevee
 Eevee
 Dunsparce
