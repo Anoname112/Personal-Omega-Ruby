@@ -95,7 +95,7 @@ Important Battle
 [IMG]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/TrainerChanges.png[/IMG][/SPOILER]
 
 [SIZE="4"][B]Download [URL="https://anoname112.github.io/Personal-Omega-Ruby/PersonalOmegaRuby.zip"][here][/URL][/B][/SIZE]
-[SIZE="2"]File size: 3.1 MB[/SIZE]
+[SIZE="2"]File size: 3.14 MB[/SIZE]
 
 [SIZE="4"][B]How to install[/B][/SIZE]
 [LIST=1]
