@@ -15,9 +15,6 @@ Omega Ruby personalized to my liking.
 <img src="https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/WildEncounter.png">
 <img src="https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/TrainerChanges.png">
 
-### Video
-https://www.youtube.com/watch?v=JouLe7DYVAE
-
 ### Download <a href="https://anoname112.github.io/Personal-Omega-Ruby/PersonalOmegaRuby.zip">[here]</a>
 File size: 3.1 MB
 
@@ -27,7 +24,8 @@ File size: 3.1 MB
 - Copy the romfs folder to the opened directory
 
 ### More information
-https://www.pokecommunity.com/showthread.php?t=498566
+PokeCommunity Thread: https://www.pokecommunity.com/showthread.php?t=498566
+Gameplay Video: https://www.youtube.com/watch?v=JouLe7DYVAE
 
 <!--
 [CENTER][SIZE="5"][B]Personal Omega Ruby[/B][/SIZE]
