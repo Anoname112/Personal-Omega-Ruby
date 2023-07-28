@@ -59,4 +59,4 @@ Record gameplay video
 
 TO-DO:
 Pickup table
-Playtesting (done up to Route 110 after Rival)
+Playtesting (done up to Mauville City)
