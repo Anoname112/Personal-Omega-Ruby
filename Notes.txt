@@ -59,4 +59,4 @@ Record gameplay video
 
 TO-DO:
 Pickup table
-Playtesting (done up to Mauville City)
+Playtesting (done up to Verdanturf Town)
