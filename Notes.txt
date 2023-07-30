@@ -59,4 +59,4 @@ Record gameplay video
 
 TO-DO:
 Pickup table
-Playtesting (done up to Verdanturf Town)
+Playtesting (done up to Route 111)
