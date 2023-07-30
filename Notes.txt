@@ -59,4 +59,4 @@ Record gameplay video
 
 TO-DO:
 Pickup table
-Playtesting (up to Route 111 Winstrates)
+Playtest (done up to Route 113)
