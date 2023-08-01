@@ -26,7 +26,7 @@ File size: 3.14 MB
 
 ### More information
 PokeCommunity thread: https://www.pokecommunity.com/showthread.php?t=498566<br />
-Gameplay video: https://www.youtube.com/watch?v=JouLe7DYVAE
+Gameplay video: https://youtu.be/JouLe7DYVAE
 
 <!--
 [CENTER][SIZE="5"][B]Personal Omega Ruby[/B][/SIZE]
