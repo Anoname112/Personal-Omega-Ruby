@@ -56,6 +56,54 @@ Horde EV training
 - Phantump → Trevenant, Level 32
 - Pumpkaboo → Gourgeist, Level 32
 Record gameplay video
+- Mega Charizard Y ●Drought @Charizardite Y
+Flamethrower, Air Slash, Solar Beam, Blast Burn
+- Venusaur ●Chlorophyll @Black Sludge
+Giga Drain, Growth, Sludge Bomb, Frenzy Plant
+- Slowbro ●Regenerator @Leftovers
+Psychic, Scald, Thunder Wave, Slack Off
+- Clefable ●Magic Guard @Life Orb
+Moonblast, Ice Beam, Soft-boiled, Calm Mind
+- Tyranitar ●Sand Stream @Leftovers
+Stone Edge, Crunch, Dragon Dance, Superpower
+- Excadrill ●Sand Rush @Leftovers
+Earthquake, Iron Head, Sword Dance, Rock Slide
+=======
+- Sidney [+6]
+Scrafty 70 [Black Glasses] Moonblast
+Mandibuzz 70 [Black Glasses] Blast Burn
+Shiftry 70 [Black Glasses] Sludge Bomb
+Zoroark 70 [Black Glasses] Frenzy Plant
+Sharpedo 70 [Black Glasses] Giga Drain
+Absol 72 Absolite Flamethrower
+- Phoebe [+6]
+Banette 71 [Spell Tag] Crunch
+Chandelure 71 [Spell Tag] Earthquake
+Dusknoir 71 [Spell Tag] Dragon Dance, Crunch
+Mismagius 71 [Spell Tag] Crunch
+Drifblim 71 [Spell Tag] Crunch
+Sableye 73 Sablenite Blast Burn
+- Glacia [+6]
+Abomasnow 72 [Never-Melt Ice] Flamethrower
+Walrein 72 [Never-Melt Ice] Frenzy Plant
+Froslass 72 [Never-Melt Ice] Flamethrower
+Vanilluxe 72 [Never-Melt Ice] Flamethrower
+Beartic 72 [Never-Melt Ice] Flamethrower
+Glalie 74 Galitite Flamethrower
+- Drake [+6]
+Altaria 73 [Dragon Fang] CMx3, Soft, Moonblast
+Dragalge 73 [Dragon Fang] Ice Beam
+Flygon 73 [Dragon Fang]  Moonblast
+Haxorus 73 [Dragon Fang] Moonblast
+Kingdra 73 [Dragon Fang] Moonblast
+Salamence 75 Salamencite Ice Beam
+- Steven [+6]
+Skarmory 77 [Leftovers] Blast Burn
+Claydol 77 [Light Clay] Frenzy Plant
+Aggron 77 [Hard Stone] Slowbro
+Carbink 77 [Hard Stone] Iron Head
+Aerodactyl 77 [Hard Stone] Slowbro
+Metagross 79 Metagrossite Blast Burn
 
 TO-DO:
 Pickup table
