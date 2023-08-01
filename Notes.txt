@@ -91,7 +91,7 @@ Vanilluxe 72 [Never-Melt Ice] Flamethrower
 Beartic 72 [Never-Melt Ice] Flamethrower
 Glalie 74 Galitite Flamethrower
 - Drake [+6]
-Altaria 73 [Dragon Fang] CMx3, Soft, Moonblast
+Altaria 73 [Dragon Fang] Calm Mind x3, Soft-Boiled, Moonblast
 Dragalge 73 [Dragon Fang] Ice Beam
 Flygon 73 [Dragon Fang]  Moonblast
 Haxorus 73 [Dragon Fang] Moonblast
