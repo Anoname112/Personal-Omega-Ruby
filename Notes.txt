@@ -4,10 +4,12 @@ DONE:
 - Mega Charizard X: -10 SpAttack, +10 Speed
 - Mega Charizard Y: -10 Attack, +10 Speed
 - Mega Blastoise: -10 Attack, +10 Speed
+
 [move (a189), gametext (a073)] Modified starters Ultimate Moves (100 Accuracy, no recharge, special effect)
 - Frenzy Plant: Inflict poison
 - Blast Burn: Inflict burn
 - Hydro Cannon: 10% flinch
+
 [encdata (a013)] Modified wild encounters: https://anoname112.github.io/Personal-Omega-Ruby/
 - Stick: hold by Farfetch'd
 - Thick Club: hold by Cubone
@@ -20,7 +22,8 @@ Horde EV training
 - Route 116: Nincada, Defense
 - Rusturf Tunnel: Whismur, HP
 - Petalburg Woods: Hoppip, SpDefense
-[trdata (a036), trpoke (a038)] Modified important battles
+
+[trdata (a036), trpoke (a038)] Modified important battles: https://github.com/Anoname112/Personal-Omega-Ruby/blob/main/Important%20Battles.txt
 - Brendan/May
 - Wally
 - Team Magma/Aqua Leader
@@ -28,6 +31,7 @@ Horde EV training
 - Gym Leader
 - Elite Four
 - Champion
+
 [evolution (a192)] Add alternatives to Trade evolutions
 - Poliwhirl → Politoed, Level up holding King's Rock
 - Kadabra → Alakazam, Level 38
@@ -55,6 +59,7 @@ Horde EV training
 - Swirlix → Slurpuff, Level up holding Whipped Dream
 - Phantump → Trevenant, Level 32
 - Pumpkaboo → Gourgeist, Level 32
+
 Record gameplay video: https://youtu.be/JouLe7DYVAE
 - Mega Charizard Y ●Drought @Charizardite Y
 Flamethrower, Air Slash, Solar Beam, Blast Burn
