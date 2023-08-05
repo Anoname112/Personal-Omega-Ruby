@@ -1,14 +1,14 @@
 DONE:
-[personal (a195)] Buff Kanto starters Mega base stats 
+[personal (a195)] Modified base stats of mega Kanto starters
 - Mega Venusaur: -10 Attack, +10 Speed
 - Mega Charizard X: -10 SpAttack, +10 Speed
 - Mega Charizard Y: -10 Attack, +10 Speed
 - Mega Blastoise: -10 Attack, +10 Speed
-[move (a189), gametext (a073)] Buff starters Ultimate Moves (100 Accuracy, no recharge, special effect)
+[move (a189), gametext (a073)] Modified starters Ultimate Moves (100 Accuracy, no recharge, special effect)
 - Frenzy Plant: Inflict poison
 - Blast Burn: Inflict burn
 - Hydro Cannon: 10% flinch
-[encdata (a013)] Encounter < 18
+[encdata (a013)] Modified wild encounters: https://anoname112.github.io/Personal-Omega-Ruby/
 - Stick: hold by Farfetch'd
 - Thick Club: hold by Cubone
 - Prism Scale: hold by Feebas 5%
@@ -20,7 +20,7 @@ Horde EV training
 - Route 116: Nincada, Defense
 - Rusturf Tunnel: Whismur, HP
 - Petalburg Woods: Hoppip, SpDefense
-[trdata (a036), trpoke (a038)] Change important battles
+[trdata (a036), trpoke (a038)] Modified important battles
 - Brendan/May
 - Wally
 - Team Magma/Aqua Leader
@@ -28,7 +28,7 @@ Horde EV training
 - Gym Leader
 - Elite Four
 - Champion
-[evolution (a192)] Add alternative to Trade evolution
+[evolution (a192)] Add alternatives to Trade evolutions
 - Poliwhirl → Politoed, Level up holding King's Rock
 - Kadabra → Alakazam, Level 38
 - Machoke → Machamp, Level 38
