@@ -112,4 +112,4 @@ Metagross 79 Metagrossite Blast Burn
 
 TO-DO:
 Pickup table
-Playtest (done up to Weather Institute)
+Playtest (completed Weather Institute)
