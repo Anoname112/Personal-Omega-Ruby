@@ -2,13 +2,13 @@
 Omega Ruby personalized to my liking.
 
 ### Features
-- <a href="https://anoname112.github.io/Personal-Omega-Ruby/">Wild encounters</a> modified to make many Pokemon from gen 1 to 6 available, but Hoenn natives are still the majority.
-- Starter ultimate moves are modified because they are the 'ultimate' moves, not the inferior moves.
-- Base stats of mega Kanto starters are modified.
+- <a href="https://anoname112.github.io/Personal-Omega-Ruby/">Wild encounters</a> have been modified to make many Pokémon from Gen 1 to 6 available, but Hoenn natives are still the majority.
+- Starter ultimate moves have been modified because these are the 'ultimate' moves, not the inferior moves.
+- The base stats of mega Kanto starters have been modified.
 - Feebas now have 5% chance to hold Prism Scale.
-- Horde EV Training.
-- <a href="https://github.com/Anoname112/Personal-Omega-Ruby/blob/main/Important%20Battles.txt">Important battle changes.</a>
-- Alternatives to Trade Evolutions.
+- Horde EV Training is available.
+- <a href="https://github.com/Anoname112/Personal-Omega-Ruby/blob/main/Important%20Battles.txt">Important battle changes</a> have been made.
+- Alternatives to Trade Evolutions have been added.
 
 ### Screenshots
 <img src="https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/FrenzyPlant.png">
@@ -20,8 +20,8 @@ Omega Ruby personalized to my liking.
 File size: 3.14 MB
 
 ### How to install
-- Extract the downloaded .zip file which contain the romfs folder
-- Open Citra, in the rom list right click Pokemon Omega Ruby and select 'Open Mods Location'
+- Extract the downloaded .zip file, which contains the romfs folder.
+- From the rom list in Citra, right-click on Pokemon Omega Ruby and select 'Open Mods Location'.
 - Copy the romfs folder to the opened directory
 
 ### More information
@@ -33,28 +33,28 @@ Gameplay video: https://youtu.be/JouLe7DYVAE
 [SIZE="2"]Omega Ruby personalized to my liking[/SIZE][/CENTER]
 
 [SIZE="4"][B]Introduction[/B][/SIZE]
-Omega Ruby is a game that have everything I like. All the Megas, Gengar with Levitate, but no Z-moves or DMax. That's why I chose it to personalize. The goal is to make Omega Ruby a more fulfilling experience. Improving the game's repeatability and Nuzloke playthrough with the modified wild encounters.
+Omega Ruby is a game that has everything I like. All the Megas, Gengar with Levitate, and no Z-moves or Dynamax. That's why I chose to personalize it. The goal is to make Omega Ruby a more fulfilling experience by improving the game's repeatability and Nuzlocke playthrough with the modified wild encounters.
 
 [SIZE="4"][B]Features[/B][/SIZE]
 [LIST]
-[*][URL="https://anoname112.github.io/Personal-Omega-Ruby/"]Wild encounters[/URL] modified to make many Pokemon from gen 1 to 6 available, but Hoenn natives are still the majority.
-[*]Starter ultimate moves are modified because they are the 'ultimate' moves, not the inferior moves.
+[*][URL="https://anoname112.github.io/Personal-Omega-Ruby/"]Wild encounters[/URL] have been modified to make many Pokémon from Gen 1 to 6 available, but Hoenn natives are still the majority.
+[*]Starter ultimate moves have been modified because these are the 'ultimate' moves, not the inferior moves.
 [SPOILER][SIZE="2"]100 Accuracy, no recharge, and added effect.[/SIZE][/SPOILER]
-[*]Base stats of mega Kanto starters are modified.
+[*]The base stats of mega Kanto starters have been modified.
 [SPOILER][B][SIZE="2"]Mega Venusaur:[/B] -10 Attack, +10 Speed
 [B]Mega Charizard X:[/B] -10 SpAttack, +10 Speed
 [B]Mega Charizard Y:[/B] -10 Attack, +10 Speed
 [B]Mega Blastoise:[/B] -10 Attack, +10 Speed[/SIZE][/SPOILER]
 [*]Feebas now have 5% chance to hold Prism Scale.
-[*]Horde EV training.
+[*]Horde EV Training is available.
 [SPOILER][SIZE="2"][B]Route 101:[/B] Zigzagoon, Speed
 [B]Route 112:[/B] Machop, Attack
 [B]Route 113:[/B] Spinda, SpAttack
 [B]Route 116:[/B] Nincada, Defense
 [B]Rusturf Tunnel:[/B] Whismur, HP
 [B]Petalburg Woods:[/B] Hoppip, SpDefense[/SIZE][/SPOILER]
-[*][URL="https://github.com/Anoname112/Personal-Omega-Ruby/blob/main/Important%20Battles.txt"]Important Battle changes.[/URL]
-[*]Alternatives to Trade Evolutions.
+[*][URL="https://github.com/Anoname112/Personal-Omega-Ruby/blob/main/Important%20Battles.txt"]Important Battle changes[/URL] have been made.
+[*]Alternatives to Trade Evolutions have been added.
 [SPOILER][SIZE="2"]Poliwhirl → Politoed, Level up holding King's Rock
 Kadabra → Alakazam, Level 38
 Machoke → Machamp, Level 38
@@ -95,14 +95,17 @@ Wild Encounter
 
 Important Battle
 [IMG]https://raw.githubusercontent.com/Anoname112/Personal-Omega-Ruby/main/images/TrainerChanges.png[/IMG][/SPOILER]
+[SIZE="4"][B]Video[/B][/SIZE]
+[SPOILER]Elite Four Rematch
+[YOUTUBE]JouLe7DYVAE[/YOUTUBE][/SPOILER]
 
 [SIZE="4"][B]Download [URL="https://anoname112.github.io/Personal-Omega-Ruby/PersonalOmegaRuby.zip"][here][/URL][/B][/SIZE]
 [SIZE="2"]File size: 3.14 MB[/SIZE]
 
 [SIZE="4"][B]How to install[/B][/SIZE]
 [LIST=1]
-[*]Extract the downloaded .zip file which contain the romfs folder
-[*]Open Citra, in the rom list right click Pokemon Omega Ruby and select 'Open Mods Location'
+[*]Extract the downloaded .zip file, which contains the romfs folder.
+[*]From the rom list in Citra, right-click on Pokemon Omega Ruby and select 'Open Mods Location'.
 [*]Copy the romfs folder to the opened directory
 [/LIST]
 
