@@ -22,7 +22,7 @@ File size: 3.14 MB
 ### How to install
 - Extract the downloaded .zip file, which contains the romfs folder.
 - From the rom list in Citra, right-click on Pokemon Omega Ruby and select 'Open Mods Location'.
-- Copy the romfs folder to the opened directory
+- Copy the romfs folder to the opened directory.
 
 ### More information
 PokeCommunity thread: https://www.pokecommunity.com/showthread.php?t=498566<br />
@@ -106,7 +106,7 @@ Important Battle
 [LIST=1]
 [*]Extract the downloaded .zip file, which contains the romfs folder.
 [*]From the rom list in Citra, right-click on Pokemon Omega Ruby and select 'Open Mods Location'.
-[*]Copy the romfs folder to the opened directory
+[*]Copy the romfs folder to the opened directory.
 [/LIST]
 
 [SIZE="4"][B]Credits[/B][/SIZE]
