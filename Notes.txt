@@ -112,4 +112,4 @@ Metagross 79 Metagrossite Blast Burn
 
 TO-DO:
 Pickup table
-Playtest (up to Lilycove City)
+Playtest (up to Safari Zone)
