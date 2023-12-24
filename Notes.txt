@@ -112,4 +112,4 @@ Metagross 79 Metagrossite Blast Burn
 
 TO-DO:
 Pickup table
-Playtest (After Mossdeep Gym, at Seafloor Cavern)
+Playtest (After Cave of Origin and Groudon, next to Sootopolis Gym)
