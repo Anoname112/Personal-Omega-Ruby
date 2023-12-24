@@ -112,4 +112,4 @@ Metagross 79 Metagrossite Blast Burn
 
 TO-DO:
 Pickup table
-Playtest (After Cave of Origin and Groudon, next to Sootopolis Gym)
+Playtest (After Sootopolis Gym, next to explore Pacifidlog Town)
