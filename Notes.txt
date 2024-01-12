@@ -112,4 +112,4 @@ Metagross 79 Metagrossite Blast Burn
 
 TO-DO:
 Pickup table
-Playtest (After Sootopolis Gym, next to explore Pacifidlog Town)
+Playtest (After exploring Pacifidlog Town, next to explore south of Slateport City)
