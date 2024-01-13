@@ -112,4 +112,4 @@ Metagross 79 Metagrossite Blast Burn
 
 TO-DO:
 Pickup table
-Playtest (After exploring Route 108, next to Sea Mauville)
+Playtest (After Sea Mauville, next to Mauville Hills and New Mauville)
