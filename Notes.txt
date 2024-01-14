@@ -65,7 +65,7 @@ Record gameplay video: https://youtu.be/JouLe7DYVAE
 Flamethrower, Air Slash, Solar Beam, Blast Burn
 - Venusaur (Chlorophyll) @Black Sludge
 Giga Drain, Growth, Sludge Bomb, Frenzy Plant
-- Slowbro ●Regenerator @Leftovers
+- Slowbro (Regenerator) @Leftovers
 Psychic, Scald, Thunder Wave, Slack Off
 - Clefable ●Magic Guard @Life Orb
 Moonblast, Ice Beam, Soft-boiled, Calm Mind
