@@ -69,7 +69,7 @@ Giga Drain, Growth, Sludge Bomb, Frenzy Plant
 Psychic, Scald, Thunder Wave, Slack Off
 - Clefable (Magic Guard) @Life Orb
 Moonblast, Ice Beam, Soft-boiled, Calm Mind
-- Tyranitar ●Sand Stream @Leftovers
+- Tyranitar (Sand Stream) @Leftovers
 Stone Edge, Crunch, Dragon Dance, Superpower
 - Excadrill ●Sand Rush @Leftovers
 Earthquake, Iron Head, Sword Dance, Rock Slide
