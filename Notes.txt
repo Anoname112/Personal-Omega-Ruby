@@ -67,7 +67,7 @@ Flamethrower, Air Slash, Solar Beam, Blast Burn
 Giga Drain, Growth, Sludge Bomb, Frenzy Plant
 - Slowbro (Regenerator) @Leftovers
 Psychic, Scald, Thunder Wave, Slack Off
-- Clefable ●Magic Guard @Life Orb
+- Clefable (Magic Guard) @Life Orb
 Moonblast, Ice Beam, Soft-boiled, Calm Mind
 - Tyranitar ●Sand Stream @Leftovers
 Stone Edge, Crunch, Dragon Dance, Superpower
