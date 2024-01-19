@@ -110,6 +110,7 @@ Carbink 77 [Hard Stone] Iron Head
 Aerodactyl 77 [Hard Stone] Slowbro
 Metagross 79 Metagrossite Blast Burn
 
+Playtest (Completed. Doing League Rematch and Battle Maison)
+
 TO-DO:
 Pickup table
-Playtest (After Delta Episode, next to Battle Resort)
